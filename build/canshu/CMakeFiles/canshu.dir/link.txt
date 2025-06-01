@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcanshu.a CMakeFiles/canshu.dir/canshu.cpp.o
+/usr/bin/ranlib libcanshu.a

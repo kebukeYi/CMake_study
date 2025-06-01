@@ -1,0 +1,2 @@
+/usr/bin/ar qc /mnt/e/Projects/CLion-Projects/newCProjectTest/lib/libsort.a CMakeFiles/sort.dir/insert_sort.cpp.o CMakeFiles/sort.dir/select_sort.cpp.o
+/usr/bin/ranlib /mnt/e/Projects/CLion-Projects/newCProjectTest/lib/libsort.a

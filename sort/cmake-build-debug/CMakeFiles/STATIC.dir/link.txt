@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSTATIC.a CMakeFiles/STATIC.dir/insert_sort.cpp.o CMakeFiles/STATIC.dir/select_sort.cpp.o
+/usr/bin/ranlib libSTATIC.a

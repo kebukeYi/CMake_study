@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSTATIC.a CMakeFiles/STATIC.dir/calc.cpp.o "CMakeFiles/STATIC.dir/mnt/e/Projects/CLion-Projects/newCProjectTest/testcalc/main.cpp.o"
+/usr/bin/ranlib libSTATIC.a

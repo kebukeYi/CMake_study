@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/app2.dir/main.cpp.o -o /mnt/e/Projects/CLion-Projects/newCProjectTest/bin/app2   -L/mnt/e/Projects/CLion-Projects/newCProjectTest/lib  -Wl,-rpath,/mnt/e/Projects/CLion-Projects/newCProjectTest/lib /mnt/e/Projects/CLion-Projects/newCProjectTest/lib/libsort.a /mnt/e/Projects/CLion-Projects/newCProjectTest/lib/libcalc.so 
